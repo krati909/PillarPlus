@@ -1,0 +1,5 @@
+field_name,type,options,mandatory
+name,text,none,yes
+dob,date,none,yes
+gender,text,(male;female),yes
+
